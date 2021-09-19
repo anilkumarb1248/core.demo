@@ -1,4 +1,4 @@
-package com.demo.java8.collectors;
+package com.demo.java8.data;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -27,6 +27,12 @@ public class EmployeeData {
 		employees.add(new Employee(108, "III", 90000, "LEAD", "BOFA", LocalDate.of(1987, 9, 9)));
 		employees.add(new Employee(109, "JJJ", 100000, "MANAGER", "BOFA", LocalDate.of(1980, 10, 10)));
 		employees.add(new Employee(110, "KKK", 200000, "CEO", "APPLE", LocalDate.of(1970, 11, 11)));
+
+		employees.add(new Employee(111, "EEE", 55000, "LEAD", "BOFA", LocalDate.of(1989, 02, 2)));
+		employees.add(new Employee(112, "GGG", 100000, "MANAGER", "APPLE", LocalDate.of(1985, 05, 6)));
+		employees.add(new Employee(113, "KKK", 250000, "CEO", "BOFA", LocalDate.of(1972, 10, 8)));
+		employees.add(new Employee(114, "LLL", 100000, "MANAGER", "APPLE", LocalDate.of(1972, 02, 7)));
+
 	}
 
 }

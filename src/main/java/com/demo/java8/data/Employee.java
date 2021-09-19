@@ -1,4 +1,4 @@
-package com.demo.java8.collectors;
+package com.demo.java8.data;
 
 import java.io.Serializable;
 import java.time.LocalDate;

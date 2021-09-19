@@ -3,6 +3,9 @@ package com.demo.java8.collectors;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.demo.java8.data.Employee;
+import com.demo.java8.data.EmployeeData;
+
 public class JoiningDemo {
 
 //	private List<Employee> employees = null;

@@ -6,6 +6,9 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+import com.demo.java8.data.Employee;
+import com.demo.java8.data.EmployeeData;
+
 public class GroupingDemo {
 
 	public static void main(String[] args) {

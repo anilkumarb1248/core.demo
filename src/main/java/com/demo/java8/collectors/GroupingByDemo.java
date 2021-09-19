@@ -4,6 +4,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import com.demo.java8.data.Employee;
+import com.demo.java8.data.EmployeeData;
+
 public class GroupingByDemo {
 
 	private List<Employee> employees = null;
